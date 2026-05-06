@@ -1,5 +1,5 @@
-# 🤖 A-MAZE-D ([DELGRANGE JÉRÉMY](https://github.com/Flasheski) - [JOSHUA KNOCKAERT](https://github.com/Whisp59) - [NOA WASIELEWSKI](https://github.com/Then0ix))
-
+# 🤖 A-MAZE-D
+## Contributors : [Jérémy Delgrange](https://github.com/Flasheski) - [Joshua Knockaert](https://github.com/Whisp59) - [Noa Wasielewski](https://github.com/Then0ix)
 ## 🧭 DESCRIPTION DU PROJET
 
 - L'objectif de ce projet est de faire naviguer des robots dans un labyrinthe virtuel, de la salle d'entrée jusqu'à la sortie.
