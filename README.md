@@ -1,4 +1,4 @@
-# 🤖 A-MAZE-D (DELGRANGE JÉRÉMY - JOSHUA KNOCKAERT @Whisp59 - NOA WASIELEWSKI @Then0ix)
+# 🤖 A-MAZE-D ([DELGRANGE JÉRÉMY](https://github.com/Flasheski) - [JOSHUA KNOCKAERT](https://github.com/Whisp59) - [NOA WASIELEWSKI](https://github.com/Then0ix))
 
 ## 🧭 DESCRIPTION DU PROJET
 
